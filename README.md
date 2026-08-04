@@ -103,10 +103,10 @@ Prompt-injection defense, anomaly detection, adversarial robustness
 <div align="center">
 
 <a href="https://github.com/Sujit-1509/jansevaAI">
-  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=Sujit-1509&repo=jansevaAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
+  <img src="https://github-readme-stats-ashen-kappa-16.vercel.app/api/pin/?username=Sujit-1509&repo=jansevaAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Sujit-1509/CivicAI">
-  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=Sujit-1509&repo=CivicAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
+  <img src="https://github-readme-stats-ashen-kappa-16.vercel.app/api/pin/?username=Sujit-1509&repo=CivicAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
 </a>
 
 </div>
@@ -237,8 +237,8 @@ Prompt-injection defense, anomaly detection, adversarial robustness
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.zohan.tech/api?username=Sujit-1509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9&ring_color=00D4FF"/>&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Sujit-1509&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-ashen-kappa-16.vercel.app/api?username=Sujit-1509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9&ring_color=00D4FF"/>&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-ashen-kappa-16.vercel.app/api/top-langs/?username=Sujit-1509&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 
 <br/><br/>
 
