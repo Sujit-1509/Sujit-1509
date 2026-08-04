@@ -103,10 +103,10 @@ Prompt-injection defense, anomaly detection, adversarial robustness
 <div align="center">
 
 <a href="https://github.com/Sujit-1509/JanSevaAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sujit-1509&repo=JanSevaAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Sujit-1509&repo=JanSevaAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Sujit-1509/LLM-Firewall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sujit-1509&repo=LLM-Firewall&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Sujit-1509&repo=LLM-Firewall&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9" width="47%"/>
 </a>
 
 </div>
@@ -231,23 +231,14 @@ Prompt-injection defense, anomaly detection, adversarial robustness
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sujit-1509&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujit-1509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9&ring_color=00D4FF"/>&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit-1509&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=Sujit-1509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6366F1&text_color=C9D1D9&ring_color=00D4FF"/>&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Sujit-1509&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 
 <br/><br/>
 
